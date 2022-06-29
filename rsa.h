@@ -9,4 +9,5 @@ void printBigNum(char *message, BIGNUM *number);
 void printHexString(char* string);
 int hex_to_int(char c);
 int hex_to_ascii(const char c, const char d);
+
 #endif
